@@ -1,4 +1,4 @@
-
+﻿
 # Python Programming | Fall 2026
 
 A collection of my university Python programming exercises, organized by week.
@@ -15,7 +15,7 @@ I'm building my foundation in Python programming as part of my academic coursewo
 
 Exercises are organized into weekly folders.
 
-### Week 4 — Control Flow and Loops
+### Week 4 â€” Control Flow and Loops
 
 Topics covered:
 - Conditional statements (`if`, `elif`, `else`)
@@ -58,3 +58,18 @@ These programs are educational exercises created for learning and practice, not 
 ## Connect
 
 GitHub: [zaroonabdulsamad](https://github.com/zaroonabdulsamad)
+
+## Week 4 — Python Programming Tasks
+
+This week focuses on Python fundamentals through practical programming exercises.
+
+| Task | Program | File |
+|---|---|---|
+| 1 | Student Grading System | [Task1.py](Week4/Task1.py) |
+| 2 | ATM Withdrawal Simulation | [Task2.py](Week4/Task2.py) |
+| 3 | Prime Number Analysis | [Task3.py](Week4/Task3.py) |
+| 4 | Password Authentication (3 Attempts) | [Task4.py](Week4/Task4.py) |
+| 5 | Number Guessing Game | [Task5.py](Week4/Task5.py) |
+
+**Progress:** 5 of 10 tasks completed.
+
